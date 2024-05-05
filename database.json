@@ -1,0 +1,49 @@
+{
+    "Aanya123": {
+        "First Name": "Aanya",
+        "Last Name": "Shah",
+        "Phone Number": "123422222",
+        "Email": "marsaanya@gmail.com",
+        "Password": "Aanya123!",
+        "Balance": 1234626,
+        "History": [
+            "1                   100                 -                   100                 ",
+            "2                   3598                -                   3698                ",
+            "3                   -                   413                 3285                ",
+            "4                   1231341             -                   1234626             "
+        ]
+    },
+    "Shivam123": {
+        "First Name": "shivam",
+        "Last Name": "phulari",
+        "Phone Number": "1244536",
+        "Email": "shivam@gmail.com",
+        "Password": "Shivam123!",
+        "Balance": 6174,
+        "History": [
+            "1              200            -              200            ",
+            "2              -              20             180            ",
+            "3              -              6              174            ",
+            "4              1000           -              1174           ",
+            "5              5000           -              6174           "
+        ]
+    },
+    "Ronil123": {
+        "First Name": "ronil",
+        "Last Name": "shah",
+        "Phone Number": "21894793",
+        "Email": "ronil.shah@gamil.com",
+        "Password": "Ronil123!",
+        "Balance": 6269,
+        "History": [
+            "1              200            -              200            ",
+            "2              -              20             180            ",
+            "3              -              6              174            ",
+            "4              1000           -              1174           ",
+            "5              5000           -              6174           ",
+            "6              100            -              6274           ",
+            "7              10             -              6284            ",
+            "8              -              15             6269             "
+        ]
+    }
+}
